@@ -1,0 +1,43 @@
+
+/* @media (min-width: 320px){
+.btn{
+    margin: 10px 25px;
+    height: 30px;
+}
+} */
+/* @media (min-width: 768px){
+.btn{
+    margin: 30px;
+    padding: 20px;
+    height: 30px;
+} */
+/* } */
+
+
+img{
+    height:150px;
+    width: 100%;
+}
+.main {
+    margin: 20px;
+    background-color: #ededed;
+    padding: 20px;
+}
+.btn{
+    margin: 10px;
+    height: 30px;
+}
+#header6{
+    text-align: center;
+    text-decoration: underline;
+}
+.card1 {
+    margin: 10% 0% 0% 0%;
+}
+.card:hover{
+    border: 1px solid silver;
+}
+/* .head1{
+    color: blue;
+    font-size: 15px;
+} */
